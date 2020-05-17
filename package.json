@@ -1,6 +1,6 @@
 {
   "name": "cb-rollup-plugin-filesize",
-  "version": "9.0.0-4",
+  "version": "9.0.0-5",
   "description": "A rollup plugin to show filesize in the cli",
   "main": "dist/index.js",
   "module": "src/index.js",
